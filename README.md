@@ -1,1 +1,1 @@
-# retail-sales-analysis
+exercise project for using github
